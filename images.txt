@@ -4,3 +4,4 @@ finab/bark-server
 haroldli/xiaoya-tvbox
 ich777/thunderbird
 sitoi/dailycheckin
+xhofe/alist
